@@ -288,7 +288,7 @@ Our next goal was to create eight IDS and eight ADS stimuli that were exactly 18
 
 * *Duration of individual clips*. As expected, the utterances in IDS were much shorter than those in ADS, so it was not possible to match on duration or number of clips. Because there were more clips per stimulus in the IDS samples, there were also more utterances boundaries. This property is consistent with the literature on the natural characteristics of IDS.  
 
-* *Total duration*. We fixed all stimuli to have a total duration of 18 s by concatenating individual utterance files into single audio files that were > 18 s in length, trimming these down to 18 s and fading the audio in and out with 0.5 s half-cosine windows. 
+* *Total duration*. We fixed all stimuli to have a total duration of 18 s by concatenating individual utterance files into single audio files that were > 18 s in length, trimming these down to 18 s and fading the audio in and out with 0.5 s half-cosine windows. The average duration of intonation phrases was 1.79s ($SD = 1.27s$) for ADS and 1.53s ($SD = 1.07s$) for IDS. The average duration of the inter-utterance intervals were 0.51s ($SD = 0.34s$) for ADS and 0.71s ($SD = 0.33s$) for IDS.
 
 Table 2 and Figure 1 provide additional details regarding the final stimulus set. Measurements were made using STRAIGHT [@kawahara2011technical]. 
 
